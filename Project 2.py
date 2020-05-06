@@ -2,7 +2,7 @@
 
 #The program will combine user input into one string.
 
-#Get user input:
+#Get input from user:
 
 name = input('Enter your name: ').capitalize()
 print()
