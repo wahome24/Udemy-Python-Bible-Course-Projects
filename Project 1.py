@@ -2,7 +2,7 @@
 
 #Depending on the difficulty the program determines how much portion is going to be added to the initial health portion.
 
-#import random to generate a random number
+#import random to generate a random number to use.
 import random;
 
 #initial health portion
